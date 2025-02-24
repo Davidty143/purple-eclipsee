@@ -76,7 +76,7 @@
             </td>
         <!-- Moved the footer content to its own row -->
         <tr>
-            <td colspan="3" style="text-align: center;">
+            <td colspan="3" align="center">
                 © Tenza
             </td>
         </tr>
