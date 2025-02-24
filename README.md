@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/385a9b72-58dd-44b8-ab5a-a81deb3b2474)<h1> Purple Eclipse </h1>
-
 <div>
     <table>
         <p style="font-weight: lighter;">Target: `AB.0XY.00Z`</p>
