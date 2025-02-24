@@ -1,4 +1,4 @@
-<h1> Purple Eclipse </h1>
+![image](https://github.com/user-attachments/assets/385a9b72-58dd-44b8-ab5a-a81deb3b2474)<h1> Purple Eclipse </h1>
 
 <div>
     <table>
@@ -30,6 +30,7 @@
                     <a href="">Join Forum / Share Multimedia</a>
                     <ul style="list-style-type: none ; padding-left: 0"> 
                         <li style="padding-left: 15px"> <a href="docs\manage-thread\view-thread.md"> View thread </a></li> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-thread\view-thread.md"> Post thread </a></li> 
                         <li style="padding-left: 15px"> <a href="docs\manage-thread\edit-thread.md"> Edit thread </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-thread\delete-thread.md"> Delete thread </a></li>
                     </ul>
