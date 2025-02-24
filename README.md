@@ -3,13 +3,15 @@
         <tr>
             <td colspan="3">
                 <h2>Purple-eclipse </h2>
-                <p> <strong>Target:<strong> `AB.0XY.00Z` </p>
+                <p> <strong>Target:</strong> `AB.0XY.00Z` </p>
             </td>
         </tr>
         <tr>
             <td>
                 <a href=""> Revisions </a><br><br>
-                <ul style="list-style-type: none ; padding-left: 0">Site Map</strong>
+                <style="list-style-type: bold ; padding-left: 0"><strong style="font-weight: 600;">Site Map</strong>
+                    <br>
+                    <br>
                     <li> <a href=""> Homepage </li>
                     <ul style="list-style-type: none ; padding-left: 0"> <a href="">Authentication </a>
                         <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-signup.md">Sign up </a></li>
@@ -21,7 +23,6 @@
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\edit-comment.md"> Edit comment dialog</a></li>  
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\post-comment.md"> Post comment dialog</a></li>                  
                     </ul>
-                    </ul>
                     <ul style="list-style-type: none ; padding-left: 0"> <a href="">Discussion Creation/Participation</a>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\add-forum.md">Add forum dialog </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\add-subforum.md">Add subforum dialog </a></li>
@@ -29,7 +30,6 @@
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-subforum.md"> Delete subforum dialog</a></li> 
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-forum.md"> Edit forum dialog</a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-subforum.md"> Edit subforum dialog</a></li>                                
-                    </ul>
                     </ul>
                     <ul style="list-style-type: none ; padding-left: 0"> <a href="">Notification</a>
                         <li style="padding-left: 15px"> <a href="docs\manage-notification\recieve-notification.md">Recieve notification dialog </a></li>
@@ -71,12 +71,11 @@
                 </div>
             </td>
         </tr>
+        <!-- Moved the footer content to its own row -->
         <tr>
-            <th>
+            <td colspan="3" style="text-align: center;">
                 © Tenza
-            </th>
+            </td>
         </tr>
     </table>
 </div>
-
-
