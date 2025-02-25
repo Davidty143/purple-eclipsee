@@ -56,9 +56,10 @@
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Manage Thread</a>
             <br><br>
             <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Thread" width="200">
-            <h2>View Thread</h2>
-            <p>The "View Thread" feature allows users to view a thread's content, including the title, content, and comments, with access controlled by user permissions.
-              Logged-in users can interact with the thread, while guests can only read it.
+            <h2>Delete Thread</h2>
+            <p>The "Delete Thread" feature allows users to permanently remove threads they have created. Admins can delete any thread, 
+                with additional capabilities such as restoring or archiving deleted content. Only authorized users can delete threads, 
+                and all deletions are logged for auditing purposes. Deleting a thread removes all associated replies and content.
            </p>
             <h2>Use Case Scenario</h2>
             <table border="1">
@@ -73,36 +74,35 @@
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>View the details of a specific thread, including the topic, content, and comments.
+                <td>Permanently delete a thread.
               </td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
                     <td>
-                          1. The thread must exist.<br>
-                          2. The user must have access to the thread.<br>
-                          3. If the user is a guest, the thread must be publicly accessible.
+                        The user must be logged in to their account.<br>
+                        The user must be the thread starter (poster) or the admin<br>
+                        The thread to be deleted must exist.
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The user navigates to the home page or the desired forum or subforum.
+                        1. The user navigates to the thread they want to delete.
                         <br>
-                        2. The user selects a thread to view.
+                        2.The user clicks the "Trash" icon next to the edit button.
                         <br>
-                        3. The system displays the thread’s title, content, and a list of all comments.
+                        3. The system prompts for confirmation to prevent accidental deletion.
                           <br>
-                        4. The user enters a valid title, tags, and content for the thread.
+                        4. The user or admin confirms the deletion.
                         <br>
-                        5. If the user is logged in, they can also see additional options such as commenting.
-                        <br>            
-                        6. The user may scroll through the comments, view replies, or interact with the content.
+                        5. The thread and all associated content (such as comment) is deleted.
+                        <br>           
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome: </th>
-                    <td>The user is able to view the thread and all associated content.
+                    <td>The thread is permanently deleted from the system.
                 </td>
                 </tr>
             </table>   
