@@ -65,8 +65,8 @@
                             <th> Approved By</th>
                         </tr>
                         <tr>
-                            <td> ...</td>
-                            <td> ...</td>
+                            <td> 2025-02-25</td>
+                            <td> v1.0.0</td>
                             <td> ...</td>
                             <td> ...</td>
                             <td> ...</td>
