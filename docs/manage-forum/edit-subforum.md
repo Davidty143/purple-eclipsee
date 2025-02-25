@@ -90,9 +90,9 @@
                     <td>
                         1.The administrator clicks the "Edit Subforum" button from the selected subforum’s page.
                         <br>
-                        2. The system displays a form to enter the subforum name, description, <br>and any other required settings, such as visibility.
+                        2. The system displays a form to enter the subforum name, description, and any other <br> required settings, such as visibility.
                         <br>
-                        3. The admin modifies the subforum details such as, its name, , description, and its visibility settings.
+                        3. The admin modifies the subforum details such as, its name, description, and its <br> visibility settings.
                           <br>
                         4. The admin clicks the “Save” button and submits the changes.
                         <br>
