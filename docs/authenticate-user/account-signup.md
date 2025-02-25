@@ -51,7 +51,7 @@
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
-            <a href="https://github.com/VSUrhuel/voyager/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
+            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/authenticate-user/account-login.md">Account Sign-up</a>
             <br><br>
             <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Authenticate User" width="200">
