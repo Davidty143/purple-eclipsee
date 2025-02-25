@@ -52,6 +52,7 @@
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
+           <img alt="Homepage" width="100"></a>
            <h2>Homepage</h2>
            <p>The Homepage serves as Visconn’s main entry point, providing users access to forums, subforums, and threads. It also contains the navigation menu, including the profile if the user is logged in, or the sign-in and sign-up buttons<br> if not. Additionally, it offers other functionalities such as search, notifications, messages, and management functionalities (for admin). The Login functionality allows users to securely authenticate into the system using their registered credentials (username or email address and password). This feature ensures only authorized users can access their accounts and perform actions within the platform.</p>
             <h2>Use Case Scenario</h2>
