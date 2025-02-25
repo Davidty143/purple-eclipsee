@@ -92,7 +92,7 @@
                 </tr>
                 <tr>
                     <th>Outcome: </th>
-                    <td><strong>Success:</strong> Outcome	The user successfully navigates to the desired content or interacts with the <br>features based on whether they are authenticated or not and their privileges.</td>
+                    <td><strong> Success: The user successfully navigates to the desired content or interacts with the <br>features based on whether they are authenticated or not and their privileges.</td>
                 </tr>
             </table>
         </td>
