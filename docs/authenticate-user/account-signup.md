@@ -1,4 +1,3 @@
-
 <h2>Purple-eclipse</h2>
 <p><strong>Target:</strong> `AB.0XY.00Z`</p>
 
@@ -53,36 +52,68 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/VSUrhuel/voyager/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/authenticate-user/account-signup.md">Account Sign-up</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/authenticate-user/account-login.md">Account Sign-up</a>
             <br><br>
             <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Authenticate User" width="200">
             <h2>Account Sign-up</h2>
-            <p>Description</p>
+            <p>The Login functionality allows users to securely authenticate into the system using their registered 
+                credentials (username or email address and password). This feature ensures only authorized users can
+                access their accounts and perform actions within the platform.</p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
-                    <th>Use Case</th>
-                    <th>Account Sign-up</th>
+                    <td colspan="2" align="left">
+                        User Sign-Up for New Account
+                    </td>
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>User</td>
+                    <td>New User, System</td>
                 </tr>
+                 <tr>
+                      <th>Goal</th>
+                      <td>Register an account by providing necessary information and receiving a verification email.</td>
+                  </tr>    
                 <tr>
-                    <th>Goal</th>
-                    <td>Description</td>
-                </tr>
-                <tr>
-                    <th>Preconditions</th>
-                    <td>Description</td>
-                </tr>
+                    <th>Precondtions</th>
+                    <td>
+                            1. The user is not logged in.
+                            <br>
+                            2. The user must be on the Sign-Up page.
+                            <br>
+                            3. The user must have an email address and a username that is not already registered.
+                    </td>
+                </tr>    
                 <tr>
                     <th>Main Scenario</th>
-                    <td>Description</td>
+                    <td>
+                        1. User navigates to the sign-up dialog and enters their <br>username, email, password, and confirms the password.
+                        <br>
+                        2. The system checks if the username is already registered.
+                        <ul>
+                            <li>If yes, show the error “username already exist”</li>
+                            <li>If no, proceed to next step</li>
+                        3.	If the authentication is successful
+                            <ul>
+                                <li>The system grants the user access and redirects them to the homepage</li>
+                                <li>The system creates a session for the user and stores a session token or <br> cookie for authentication.</li>
+                            </ul>
+                        4. The system checks if the email is already registered
+                            <ul>
+                                <li>If yes, show the error “Email already registered”</li>
+                                <li>If no, proceed to email verification</li>
+                            </ul>
+                        5. The system verifies the password and confirm password match.
+                            <ul>
+                                <li>If they don’t match, show an error message "Passwords do not match."</li>
+                                <li>If they match, proceed.</li>
+                            </ul>
+                        6. The Signup button must now be clickable.
+                    </td>
                 </tr>
                 <tr>
-                    <th>Outcome</th>
-                    <td>Description</td>
+                    <th>Outcome: </th>
+                    <td><strong>Success:</strong> The user must be able to click the register  button and redirect to registration <br>verification dialog. </td>
                 </tr>
             </table>
         </td>
