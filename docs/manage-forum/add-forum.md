@@ -56,53 +56,50 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Manage Forum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Authenticate User" width="200">
-            <h2>Add Forum</h2>
-            <p>The "Delete Comment" feature allows authorized users, such as the comment poster or admins,
-              to permanently remove comments from a thread. Admins have the ability to delete any comment for moderation,
-              while users can only delete their own. </p>
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Forum" width="200">
+            <h2>Create Forum</h2>
+            <p>The "Create Forum" functionality allows administrators to set up new forums with varying visibility settings within the platform. 
+               The forum will serve as a category for the subforums. </p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Comment on Thread
+                      User Create Forum
                     </td>
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>User, Admin</td>
+                    <td>Admin</td>
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>Permanently remove a comment from a thread.</td>
+                <td>Create a new forum within the platform.</td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
                     <td>
-                          The user must be logged in to their account.<br>
-                          The user must have previously posted the comment they wish to edit.<br>
-                          The admin can delete any comment for moderation.
+                          The user must be logged in as an admin.<br>
+                          The admin is on the forum page.
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The user navigates to the comment they want to delete.
+                        1. The admin clicks the “Add Forum” Button.
                         <br>
-                        2. The user clicks the "Trash" icon next to the "Edit" icon associated with their comment.
+                        2. The admin provides a name, description, and the accessibility of the forum.
                         <br>
-                        3. If the user is an admin, they can delete any comment in the thread.
+                        3. The admin submits the form to create the forum.
                           <br>
-                        4. A confirmation prompt appears to prevent accidental deletion.
+                        4. The system validates the input and creates the forum.
                         <br>
-                        5. The user confirms the deletion.
-                        <br>
-                        6.	The comment is permanently removed from the thread.
+                        5. The new forum is displayed in the list of available forums.
+                        <br>            
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome: </th>
-                    <td>The comment is deleted and no longer visible in the thread.</td>
+                    <td>The forum is successfully created and displayed in the list of forums.</td>
                 </tr>
             </table>   
           <tr>
