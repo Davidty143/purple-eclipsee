@@ -53,10 +53,10 @@
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
-            <a href="https://github.com/VSUrhuel/voyager/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/authenticate-user/account-login.md">Manage Comment</a>
+           <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Manage Comment</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Comment" width="200">
+            <img src="https://github.com/user-attachments/assets/" alt="Manage Comment" width="200">
             <h2>Edit Comment</h2>
             <p>The "Edit Comment" feature allows users to modify their own comments inside a thread. Edits are logged, 
               and a timestamp is displayed to indicate changes. Only the comment poster can edit the comment.</p>
