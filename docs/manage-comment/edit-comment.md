@@ -97,7 +97,7 @@
                 </tr>
                 <tr>
                     <th>Outcome: </th>
-                    <td>The comment is deleted and no longer visible in the thread.</td>
+                    <td>The comment is edited based on the user's preference.</td>
                 </tr>
             </table>   
           <tr>
