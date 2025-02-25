@@ -55,7 +55,7 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Manage Comment</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Authenticate User" width="200">
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Comment" width="200">
             <h2>Delete Comment</h2>
             <p>The "Delete Comment" feature allows authorized users, such as the comment poster or admins,
               to permanently remove comments from a thread. Admins have the ability to delete any comment for moderation,
