@@ -106,7 +106,7 @@
               <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Login Using with Password
+                      User Login with Password
                     </td>
                 </tr>
                 <tr>
