@@ -17,9 +17,11 @@
                     </ul>
                     <a href="">Manage Forum</a>
                     <ul style="list-style-type: none ; padding-left: 0"> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\add-forum.md"> View forum </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\add-forum.md"> Add forum </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-forum.md"> Edit forum </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-forum.md"> Delete forum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-forum.md"> View subforum </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\add-subforum.md"> Add subforum </a></li>
                          <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-subforum.md"> Edit subforum </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-subforum.md"> Delete subforum </a></li>             
