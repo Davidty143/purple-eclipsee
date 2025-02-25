@@ -1,5 +1,3 @@
-
-
 <h2>Purple-eclipse</h2>
 <p><strong>Target:</strong> `AB.0XY.00Z`</p>
 
