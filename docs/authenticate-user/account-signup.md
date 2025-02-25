@@ -116,6 +116,59 @@
                     <td><strong>Success:</strong> The user must be able to click the register  button and redirect to registration <br>verification dialog. </td>
                 </tr>
             </table>
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Authenticate User" width="200">
+            <h2>Email Verification</h2>
+            <p>The Email Verification functionality ensures that a user’s email address is valid and accessible before granting full access to the system. 
+                The system sends an email with a verification link or code to the user's provided email address, and the user is required to confirm their email 
+                by clicking the link or entering the code.</p>
+            <h2>Use Case Scenario</h2>
+            <table border="1">
+                <tr>
+                    <td colspan="2" align="left">
+                      Registration Verification Process
+                    </td>
+                </tr>
+                <tr>
+                    <th>Actor(s)</th>
+                    <td>New User, System</td>
+                </tr>
+                 <tr>
+                      <th>Goal</th>
+                      <td>Verify the user's email address after they have signed up, ensuring that the email is valid<br> and that the user has access to it.</td>
+                  </tr>    
+                <tr>
+                    <th>Precondtions</th>
+                    <td>
+                            1. The user has completed the registration form.
+                            <br>
+                            2. The system has sent a verification email to the user's provided email address.
+                            <br>
+                            3. The user has access to their email inbox.
+                            <br>
+                            4. The user has not yet verified their email.
+                    </td>
+                </tr>    
+                <tr>
+                    <th>Main Scenario</th>
+                <td>
+                    1. The user has not yet verified their email.
+                    <br>
+                    2. User accesses the verification email.
+                    <br>
+                    3. User accesses the verification email
+                       <br>
+                    4. System verifies the email.
+                    <br>
+                    5. User is redirected to the confirmation page
+                    <br>
+                    6. User is redirected to the home page.
+                </td>
+            </tr>
+                <tr>
+                    <th>Outcome: </th>
+                    <td>The user's email address is verified, and their account is full registered. <br>The user is able to log in on Visconn.</td>
+                </tr>
+            </table>
         </td>
     </tr>
     <tr>
