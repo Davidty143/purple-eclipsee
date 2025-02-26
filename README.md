@@ -69,9 +69,9 @@
                         <tr>
                             <td> 2025-02-25</td>
                             <td> v1.0.0</td>
+                            <td> First Document Version</td>
                             <td> ...</td>
-                            <td> ...</td>
-                            <td> ...</td>
+                            <td>  Ty, David Antonio <br> Project Manager</td>
                         </tr>
                     </table>
                 </div>
