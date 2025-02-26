@@ -36,7 +36,7 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/view-forum">View Forum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/sample-image.png" alt="View Forum" width="200">
+            <img src="/assets/view_forum(user).png" alt="View Forum" width="1000">
             <h2>View Forum</h2>
             <p>The "View Forum" functionality allows users to browse available forums, view topics, and engage in discussions. 
                Users can navigate through categories, search for topics, and participate in ongoing discussions.</p>
