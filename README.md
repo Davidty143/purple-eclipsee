@@ -1,7 +1,7 @@
 <div>
     <table>
         <p style="font-weight: lighter;">Target: `AB.0XY.00Z`</p>
-            <td width="21%">
+            <td width="30%">
                 <h3> Revisions </h3><br>
                 <style="list-style-type: bold ; padding-left: 0"><strong style="font-weight: 600;">Site Map</strong>
                     <br>
