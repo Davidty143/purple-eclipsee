@@ -53,7 +53,7 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="/manage-profile/user-logout.md">Edit Profile</a>
+            <a href="/manage-profile/user-logout.md">User Logout</a>
             <br><br>
             <img src="" alt="User Logout" width="200">
             <h2>User Logout</h2>
@@ -76,7 +76,7 @@
                 <td>Add a new subforum under an existing forum.</td>
               </tr>  
                 <tr>
-                    <th>Precondtions</th>
+                    <th>Preconditions</th>
                     <td>
                           The user must be logged in as an admin.<br>
                           The forum where the subforum will be added must already exist.<br>
