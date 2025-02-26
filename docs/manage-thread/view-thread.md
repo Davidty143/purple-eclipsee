@@ -56,7 +56,7 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Manage Thread</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Thread" width="200">
+            <img src="/assets/view_thread(user).png" alt="Manage Thread">
             <h2>View Thread</h2>
             <p>The "View Thread" feature allows users to view a thread's content, including the title, content, and comments, with access controlled by user permissions.
               Logged-in users can interact with the thread, while guests can only read it.
