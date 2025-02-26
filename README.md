@@ -1,5 +1,5 @@
 <div>
-    <table>
+    <table width="50%">
         <p style="font-weight: lighter;">Target: `AB.0XY.00Z`</p>
             <td>
                 <h3> Revisions </h3><br>
