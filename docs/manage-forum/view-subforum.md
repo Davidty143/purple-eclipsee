@@ -2,8 +2,8 @@
 <p><strong>Target:</strong> `AB.0XY.00Z`</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 12px;">
-    <tr style="width: 70%;">
-        <td>
+    <tr style="width: 70%;" valign="top">
+        <td width="18%">
             <h3>Revisions</h3>
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
             <a href="">Homepage</a>
@@ -34,7 +34,7 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/view-subforum">View Subforum</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum/view-subforum.md">View Subforum</a>
             <br><br>
             <img src="/assets/view_subforum(user).png" alt="View Subforum" width="1000">
             <h2>View Subforum</h2>
