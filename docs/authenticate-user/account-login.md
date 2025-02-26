@@ -52,7 +52,8 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/authenticate-user">Authenticate User</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/authenticate-user">Authenticate User</a> &gt;
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/authenticate-user">Account Login</a>
             <br><br>
             <img src="/assets/google_login.png" alt="Authenticate User">
             <h2>Authenticate User</h2>
