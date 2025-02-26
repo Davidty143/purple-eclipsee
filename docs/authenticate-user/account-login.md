@@ -54,7 +54,7 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/authenticate-user">Authenticate User</a>
             <br><br>
-            <img src="/assets/account_login.png" alt="Authenticate User">
+            <img src="/assets/google_login.png" alt="Authenticate User">
             <h2>Authenticate User</h2>
             <p>The Login functionality allows users to securely authenticate into the system using their registered credentials (username or email address and password). This feature ensures only authorized users can access their accounts and perform actions within the platform.</p>
             <h2>Use Case Scenario</h2>
@@ -103,6 +103,8 @@
                 </tr>
             </table>
                 <br>
+             <img src="/assets/account_login.png" alt="Authenticate User">
+            <p>The Login functionality allows users to securely authenticate into the system using their registered credentials (username or email address and password). This feature ensures only authorized users can access their accounts and perform actions within the platform.</p>
               <table border="1">
                 <tr>
                     <td colspan="2" align="left">
