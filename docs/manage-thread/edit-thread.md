@@ -8,55 +8,53 @@
         <td>
             <h3>Revisions</h3>
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
-            <a href="">Homepage</a>
+            <a href="../homepage/homepage.md">Homepage</a>
             <br>
-            <a href="">Mange Comment</a>
+            <a href="../authenticate-user/account-signup.md">Authentication</a>
             <ul>
-                <li><a href="docs/authenticate-user/account-signup.md">Sign up</a></li>
-                <li><a href="docs/authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="docs/authenticate-user/error-dialog.md">Error Dialog</a></li>
+                <li><a href="../authenticate-user/account-signup.md">Sign up</a></li>
+                <li><a href="../authenticate-user/account-login.md">Account Login</a></li>
+                <li><a href="error-dialog.md">Error Dialog</a></li>
             </ul>
-            <a href="">Forum Management</a>
+            <a href="delete-comment.md">Forum Management</a>
             <ul>
-                <li><a href="docs/manage-comment/delete-comment.md">Delete comment dialog</a></li>
-                <li><a href="docs/manage-comment/edit-comment.md">Edit comment dialog</a></li>
-                <li><a href="docs/manage-comment/post-comment.md">Post comment dialog</a></li>
+                <li><a href="../manage-comment/delete-comment.md">Delete comment dialog</a></li>
+                <li><a href="../manage-comment/edit-comment.md">Edit comment dialog</a></li>
+                <li><a href="../manage-comment/post-comment.md">Post comment dialog</a></li>
             </ul>
-            <a href="">Discussion Creation/Participation</a>
+            <a href="../manage-forum/add-forum.md">Discussion Creation/Participation</a>
             <ul>
-                <li><a href="docs/manage-forum/add-forum.md">Add forum dialog</a></li>
-                <li><a href="docs/manage-forum/add-subforum.md">Add subforum dialog</a></li>
-                <li><a href="docs/manage-forum/delete-forum.md">Delete forum dialog</a></li>
-                <li><a href="docs/manage-forum/delete-subforum.md">Delete subforum dialog</a></li>
-                <li><a href="docs/manage-forum/edit-forum.md">Edit forum dialog</a></li>
-                <li><a href="docs/manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
+                <li><a href="../manage-forum/add-forum.md">Add forum dialog</a></li>
+                <li><a href="../manage-forum/add-subforum.md">Add subforum dialog</a></li>
+                <li><a href="../manage-forum/delete-forum.md">Delete forum dialog</a></li>
+                <li><a href="../manage-forum/delete-subforum.md">Delete subforum dialog</a></li>
+                <li><a href="../manage-forum/edit-forum.md">Edit forum dialog</a></li>
+                <li><a href="../manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
             </ul>
-            <a href="">Notification</a>
+            <a href="../manage-notification/receive-notification.md">Notification</a>
             <ul>
-                <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
+                <li><a href="../manage-notification/receive-notification.md">Receive notification dialog</a></li>
             </ul>
-            <a href="">Multimedia Content Sharing</a>
+            <a href="delete-thread.md">Multimedia Content Sharing</a>
             <ul>
-                <li><a href="docs/manage-thread/delete-thread.md">Delete thread dialog</a></li>
-                <li><a href="docs/manage-thread/edit-thread.md">Edit thread dialog</a></li>
-                <li><a href="docs/manage-thread/manage-thread.md">Manage thread dialog</a></li>
-                <li><a href="docs/manage-thread/view-thread.md">View thread dialog</a></li>
+                <li><a href="delete-thread.md">Delete thread dialog</a></li>
+                <li><a href="edit-thread.md">Edit thread dialog</a></li>
+                <li><a href="manage-thread.md">Manage thread</a></li>
+                <li><a href="view-thread.md">View thread dialog</a></li>
             </ul>
             <a href="">Search Functionality</a>
             <br><br>
-            <a href="">Real-Time Messaging</a>
+            <a href="../manage-message/receive-message.md">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
-                <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
+                <li><a href="../manage-message/receive-message.md">Receive message</a></li>
+                <li><a href="../manage-message/send-message.md">Send message</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Manage Thread</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Edit Thread</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Thread" width="200">
+            <img src="" alt="Edit Thread" width="200">
             <h2>Edit Thread</h2>
             <p>The "Edit Thread" feature allows thread starters (poster) and admins to modify thread content.
               Admins have additional control, such as locking the thread or changing its status. Only authorized users can edit, and changes are immediately reflected in the forum.                     Required fields must be completed, and an audit trail tracks edits.
