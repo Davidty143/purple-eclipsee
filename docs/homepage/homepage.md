@@ -15,7 +15,7 @@
                 <li><a href="account-login.md">Account Login</a></li>
                 <li><a href="error-dialog.md">Error Dialog</a></li>
             </ul>
-            <a href="../manage-comment/delete-comment.md">Forum Management</a>
+            <a href="../manage-comment/delete-comment.md">Comment Management</a>
             <ul>
                 <li><a href="../manage-comment/delete-comment.md">Delete comment dialog</a></li>
                 <li><a href="../manage-comment/edit-comment.md">Edit comment dialog</a></li>
