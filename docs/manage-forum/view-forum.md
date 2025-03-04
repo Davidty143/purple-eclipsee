@@ -38,8 +38,7 @@
             <br><br>
             <img src="/assets/view_forum(user).png" alt="View Forum" width="1000">
             <h2>View Forum</h2>
-            <p>The "View Forum" functionality allows users to browse available forums, view topics, and engage in discussions. 
-               Users can navigate through categories, search for topics, and participate in ongoing discussions.</p>
+            <p>The "View Forum" feature allows users to access and explore forum content, including all available subforums in each categorized forum.</p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
@@ -49,39 +48,31 @@
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>Registered User, Guest</td>
+                    <td>User, Admin, Guest</td>
                 </tr>
                 <tr>
                     <th>Goal</th>
-                    <td>Browse forums and view available discussions.</td>
+                    <td>View a forum to explore subforums within a specific forum.</td>
                 </tr>  
                 <tr>
                     <th>Preconditions</th>
                     <td>
-                          The user is on the forum page.<br>
-                          Guest users can view public forums; registered users can access private forums.
+                          The user is logged in or a guest.<br>
+                          The user is in the forum’s page.<br>
+                          The forum exists and is accessible based on user permissions.
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The user navigates to the forum section.
-                        <br>
-                        2. The system displays a list of available forums.
-                        <br>
-                        3. The user selects a forum to view its topics.
-                        <br>
-                        4. The system displays a list of topics within the forum.
-                        <br>
-                        5. The user selects a topic to read discussions and comments.
-                        <br>
-                        6. If the user is logged in, they can reply or start a new discussion.
-                        <br>            
+                        1. The system loads the forum's content, which is name, its description, and the list of subforums under its category.<br>
+                        2. The user can browse through the forum’s subforums.<br>
+                        3. The admin has additional capabilities to add and manage forum content.
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome:</th>
-                    <td>The user successfully views the forum content and interacts if logged in.</td>
+                    <td>The forum content is displayed to the user, with proper navigation and available actions based on the user's role.</td>
                 </tr>
             </table>   
           <tr>
