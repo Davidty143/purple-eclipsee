@@ -33,7 +33,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -46,19 +45,16 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Manage Forum</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Send Message</a>
             <br><br>
-            <img src="" alt="Send message" width="200">
+            <img src="" alt="Send Message" width="200">
             <h2>Send Message</h2>
-            <p>The "Add Subforum" functionality enables administrators to create new subforums within existing forums, 
-              specifying details like name, description and its visibility settings.
+            <p>The "Send Message" feature allows users to send direct messages in the form of threads, enabling users to communicate <br>with others in an organized manner. A user can send multiple messages in a thread, or continue an existing conversation with a recipient.
             </p>
             <h2>Use Case Scenario</h2>
             <table border="1">
@@ -69,39 +65,43 @@
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>Admin</td>
+                    <td>User, System</td>
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>Add a new subforum under an existing forum.</td>
+                <td>Allow users to send direct messages to other users.</td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
                     <td>
-                          The user must be logged in as an admin.<br>
-                          The forum where the subforum will be added must already exist.<br>
-                          The admin must be on the forums page.
+                          The user is logged in to their account.<br>
+                          The recipient must be a registered user on the platform.
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The administrator clicks the "Create Subforum" button from the forum page.
-                        <br>
-                        2. The system displays a form to enter the subforum name, description, <br>and any other required settings, such as visibility.
-                        <br>
-                        3. The admin enters the necessary information and submits the form.
-                          <br>
-                        4. The system validates the input and creates the forum.
-                        <br>
-                        5. The new subforum is successfully added and appears in the forum's list.
+                        1. The user navigates to the messaging section, either from the main dashboard or by clicking the message<br> icon located in the header menu.<br>
+                        2. The system displays the user's recent message threads along with a "Send a Direct Message" button.<br>
+                        3. For a New Thread (New Recipient):<br>&nbsp&nbsp&nbsp
+                            a. The user clicks on the "Send a Direct Message" button to start a new message thread.<br>&nbsp&nbsp&nbsp
+                            b. A form appears containing the following fields:<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                                - Recipient: The user enters the username or email of the recipient.<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                                - Subject: The user enters the subject for the message (optional, depending on system settings).<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                                - Message: The user types the content of the message.<br>
+                        4. For an Existing Thread (Continuing a Conversation):<br>&nbsp&nbsp&nbsp
+                            a. If the user clicks on a previously sent message thread, the system loads that thread.<br>&nbsp&nbsp&nbsp
+                            b. The message form now only contains the option to type and send a new message within that thread,<br>&nbsp&nbsp&nbsp
+                            showing the history of the conversation (previous messages).<br>
+                        5. The user clicks on the "Send" button.<br>
+                        6. The system confirms that the message has been sent successfully.
                         <br>            
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome: </th>
                     <td>
-                      A new subforum is created and visible under the appropriate forum. The administrator <br>can manage the subforum's content and settings.
+                      The message is sent successfully. If it’s a new thread, it appears as a new message thread in both the sender's and <br>recipient's inboxes. If it’s a continuation of an existing message thread, the message is added to the ongoing conversation.
                     </td>
                 </tr>
             </table>   
