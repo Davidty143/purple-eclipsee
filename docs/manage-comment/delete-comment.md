@@ -11,10 +11,10 @@
                     <br>
                     <a href="docs\authenticate-user\account-login.md">Authentication </a>
                      <ul style="list-style-type: none ; padding-left: 0">
-                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Login Account </a></li>   
-                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Login with Google </a></li>   
-                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-signup.md"> Sign up Account </a></li>
-                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Verify Email </a></li>   
+                        <li style="padding-left: 15px"> <a href="\authenticate-user\account-login.md"> Login Account </a></li>   
+                        <li style="padding-left: 15px"> <a href="\authenticate-user\account-login.md"> Login with Google </a></li>   
+                        <li style="padding-left: 15px"> <a href="\authenticate-user\account-signup.md"> Sign up Account </a></li>
+                        <li style="padding-left: 15px"> <a href="\authenticate-user\account-login.md"> Verify Email </a></li>   
                     </ul>
                     <a href="docs\manage-forum\view-forum.md">Manage Forum</a>
                     <ul style="list-style-type: none ; padding-left: 0"> 
