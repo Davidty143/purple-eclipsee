@@ -51,8 +51,6 @@
                     <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs\manage-message\send-message.md"> Send message </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-message\send-message.md"> Receive message </a></li>
-                        <li style="padding-left: 15px"> <a href="docs\manage-message\edit-message.md"> Edit message </a></li>
-                        <li style="padding-left: 15px"> <a href="docs\manage-message\delete-message.md"> Delete message </a></li> 
                     </ul>
                 </ul> 
             </td>
