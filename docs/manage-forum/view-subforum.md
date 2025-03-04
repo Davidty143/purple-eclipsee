@@ -38,8 +38,7 @@
             <br><br>
             <img src="/assets/view_subforum(user).png" alt="View Subforum" width="1000">
             <h2>View Subforum</h2>
-            <p>The "View Subforum" functionality allows users to access discussions within a specific category of a forum. 
-               Users can browse topics, read comments, and participate in discussions based on the subforum’s theme.</p>
+            <p>The "View Subforum" functionality enables users to access threads in a subforum, with pagination and filtering options for efficient browsing of the threads.</p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
@@ -49,39 +48,32 @@
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>Registered User, Guest</td>
+                    <td>User, Admin, Guest</td>
                 </tr>
                 <tr>
                     <th>Goal</th>
-                    <td>Navigate through a subforum and view available discussions.</td>
+                    <td>View the content of the  subforum page, including thread and its navigations.</td>
                 </tr>  
                 <tr>
                     <th>Preconditions</th>
                     <td>
-                          The user is on a forum page.<br>
-                          Guest users can view public subforums; registered users can access private<br> subforums.
+                          The user must either be logged in or as a guest.<br>
+                          The subforum must exist in the platform.<br>
+                          The user must be on a subforum page.
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The user selects a forum from the forum list.
-                        <br>
-                        2. The system displays a list of subforums under the selected forum.
-                        <br>
-                        3. The user selects a subforum to explore its topics.
-                        <br>
-                        4. The system presents the list of topics within the subforum.
-                        <br>
-                        5. The user selects a topic to read discussions and comments.
-                        <br>
-                        6. If the user is logged in, they can reply or create a new discussion.
-                        <br>            
+                        1. The system displays a list of threads associated with the subforum.<br>
+                        2. The system provides pagination controls for users to navigate through pages of threads.<br>
+                        3. The user can apply filters to narrow down the list of threads (e.g., by date, popularity, or specific tags).<br>
+                        4. The user can interact with individual threads by clicking on them to view their content or post a comment.
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome:</th>
-                    <td>The user successfully navigates and engages with discussions in the subforum.</td>
+                    <td>The user successfully views the subforum content, utilizes pagination and  filters for faster navigation.</td>
                 </tr>
             </table>   
           <tr>
