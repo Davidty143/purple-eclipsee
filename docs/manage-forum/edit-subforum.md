@@ -34,7 +34,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -47,20 +46,18 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Manage Forum</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Edit  Subforum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Subforum" width="200">
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Edit Subforum" width="200">
             <h2>Edit Subforum</h2>
             <p>
               The "Edit Subforum" functionality allows the administrator to update subforum details, including the name, description, 
-              and its visibility settings. Changes are immediately reflected in the platform.
+              and its visibility settings. Changes are immediately reflected in the platform.    
             </p>
             <h2>Use Case Scenario</h2>
             <table border="1">
@@ -75,7 +72,7 @@
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>View the content of the  subforum page, including thread and its navigations.</td>
+                <td>View the content of the subforum page, including thread and its navigations.</td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
