@@ -60,7 +60,7 @@
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Create Forum
+                      Admin Create Subforum
                     </td>
                 </tr>
                 <tr>
