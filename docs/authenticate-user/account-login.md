@@ -10,9 +10,9 @@
             <br>
             <a href="">Authentication</a>
             <ul>
-                <li><a href="docs/authenticate-user/account-signup.md">Sign up</a></li>
-                <li><a href="docs/authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="docs/authenticate-user/error-dialog.md">Error Dialog</a></li>
+                <li><a href="account-signup.md">Sign up</a></li>
+                <li><a href="account-login.md">Account Login</a></li>
+                <li><a href="error-dialog.md">Error Dialog</a></li>
             </ul>
             <a href="">Forum Management</a>
             <ul>
@@ -32,7 +32,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -45,9 +44,8 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
+                <li><a href="docs/manage-mssage/receive-message.md">Receive message</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
