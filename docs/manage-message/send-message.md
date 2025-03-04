@@ -45,7 +45,8 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/send-message.md">Send message</a></li>
+                <li><a href="/manage-thread.md">Manage thread dialog</a></li>
+                <li><a href="/send-message.md">Send message</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
