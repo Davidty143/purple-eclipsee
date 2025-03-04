@@ -35,7 +35,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -48,9 +47,7 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
@@ -73,34 +70,28 @@
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>Update or modify an existing forum's details such as name, description, and settings.</td>
+                <td>Deletes an existing forum from the platform.</td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
                     <td>
                           The user must be logged in as an admin.<br>
-                          The forum to be edited must already exist.<br>
-                          The admin is in the forum’s page
+                          The forum to be deleted must exist.<br>
+                          The admin is in the forum’s page.    
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The administrator clicks on the "Edit" option next to the selected forum.
-                        <br>
-                        2. The system displays a form with the current details of the forum.
-                        <br>
-                        3. The admin modifies the required fields such as the forum name, description, or settings
-                          <br>
-                        4. The admin clicks the "Save" or button.
-                        <br>
-                        5. The forum is now updated with the new details.
-                        <br>
+                        1. The administrator selects the forum they wish to delete.<br>
+                        2. The system prompts for confirmation to prevent accidental deletion.<br>
+                        3. The admin confirms the deletion.<br>
+                        4. The forum and all associated subforums and threads are archived and are removed from the page.
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome </th>
-                    <td>The forum is successfully updated, and changes are reflected on the platform.</td>
+                    <td>The forum and its associated content such as the subforums and threads  are removed from the platform and are no longer accessible by the users.</td>
                 </tr>
             </table>   
           <tr>
