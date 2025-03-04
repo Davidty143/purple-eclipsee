@@ -32,7 +32,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -45,17 +44,15 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Manage Forum</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Add Forum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Forum" width="200">
-            <h2>Create Forum</h2>
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Add Forum" width="200">
+            <h2>Add Forum</h2>
             <p>The "Create Forum" functionality allows administrators to set up new forums with varying visibility settings within the platform. 
                The forum will serve as a category for the subforums. </p>
             <h2>Use Case Scenario</h2>
