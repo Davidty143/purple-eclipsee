@@ -7,55 +7,58 @@
         <td>
             <h3>Revisions</h3>
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
-            <a href="">Homepage</a>
-            <br>
-            <a href="">Mange Comment</a>
-            <ul>
-                <li><a href="docs/authenticate-user/account-signup.md">Sign up</a></li>
-                <li><a href="docs/authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="docs/authenticate-user/error-dialog.md">Error Dialog</a></li>
-            </ul>
-            <a href="">Forum Management</a>
-            <ul>
-                <li><a href="docs/manage-comment/delete-comment.md">Delete comment dialog</a></li>
-                <li><a href="docs/manage-comment/edit-comment.md">Edit comment dialog</a></li>
-                <li><a href="docs/manage-comment/post-comment.md">Post comment dialog</a></li>
-            </ul>
-            <a href="">Discussion Creation/Participation</a>
-            <ul>
-                <li><a href="docs/manage-forum/add-forum.md">Add forum dialog</a></li>
-                <li><a href="docs/manage-forum/add-subforum.md">Add subforum dialog</a></li>
-                <li><a href="docs/manage-forum/delete-forum.md">Delete forum dialog</a></li>
-                <li><a href="docs/manage-forum/delete-subforum.md">Delete subforum dialog</a></li>
-                <li><a href="docs/manage-forum/edit-forum.md">Edit forum dialog</a></li>
-                <li><a href="docs/manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
-            </ul>
-            <a href="">Notification</a>
-            <ul>
-                <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
-            </ul>
-            <a href="">Multimedia Content Sharing</a>
-            <ul>
-                <li><a href="docs/manage-thread/delete-thread.md">Delete thread dialog</a></li>
-                <li><a href="docs/manage-thread/edit-thread.md">Edit thread dialog</a></li>
-                <li><a href="docs/manage-thread/manage-thread.md">Manage thread dialog</a></li>
-                <li><a href="docs/manage-thread/view-thread.md">View thread dialog</a></li>
-            </ul>
-            <a href="">Search Functionality</a>
-            <br><br>
-            <a href="">Real-Time Messaging</a>
-            <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
-                <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
-            </ul>
+                    <a href="docs/homepage/homepage.md"> Homepage </a>
+                    <br>
+                    <a href="docs\authenticate-user\account-login.md">Authentication </a>
+                     <ul style="list-style-type: none ; padding-left: 0">
+                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Login Account </a></li>   
+                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Login with Google </a></li>   
+                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-signup.md"> Sign up Account </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Verify Email </a></li>   
+                    </ul>
+                    <a href="docs\manage-forum\view-forum.md">Manage Forum</a>
+                    <ul style="list-style-type: none ; padding-left: 0"> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\view-forum.md"> View forum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\add-forum.md"> Add forum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-forum.md"> Edit forum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-forum.md"> Delete forum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\view-subforum.md"> View subforum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\add-subforum.md"> Add subforum </a></li>
+                         <li style="padding-left: 15px"> <a href="docs\manage-forum\edit-subforum.md"> Edit subforum </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-forum\delete-subforum.md"> Delete subforum </a></li>             
+                    </ul>
+                    <a href="docs\manage-thread\view-thread.md">Join Forum / Share Multimedia</a>
+                    <ul style="list-style-type: none ; padding-left: 0"> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-thread\view-thread.md"> View thread </a></li> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-thread\view-thread.md"> Post thread </a></li> 
+                        <li style="padding-left: 15px"> <a href="docs\manage-thread\edit-thread.md"> Edit thread </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-thread\delete-thread.md"> Delete thread </a></li>
+                    </ul>
+                    <a href="docs\manage-notification\recieve-notification.md">Notification</a>
+                    <ul style="list-style-type: none ; padding-left: 0">
+                        <li style="padding-left: 15px"> <a href="docs\manage-notification\recieve-notification.md">Recieve notification </a></li>
+                    </ul>
+                    <a href="docs\manage-comment\post-comment.md">Participate Discussion</a>
+                    <ul style="list-style-type: none ; padding-left: 0"> 
+                        <li style="padding-left: 15px"> <a href="/post-comment.md"> Post comment </a></li>
+                        <li style="padding-left: 15px"> <a href="/edit-comment.md"> Edit comment </a></li>
+                        <li style="padding-left: 15px"> <a href="/delete-comment.md"> Delete comment </a></li>
+                        <li style="padding-left: 15px"> <a href="/post-comment.md"> Most comment </a></li>
+                    </ul>
+                    <a href="">Search Functionality</a>
+                    <ul style="list-style-type: none ; padding-left: 0"> 
+                    </ul>
+                     <a href="docs\manage-message\send-message.md">Real-Time Messaging</a>
+                    <ul style="list-style-type: none ; padding-left: 0">
+                        <li style="padding-left: 15px"> <a href="docs\manage-message\send-message.md"> Send message </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-message\receive-message.md"> Receive message </a></li>
+                    </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Manage Comment</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Delete Comment</a>
             <br><br>
-            <img src="" alt="Manage Comment" width="200">
+            <img src="" alt="Delete Comment" width="200">
             <h2>Delete Comment</h2>
             <p>The "Delete Comment" feature allows authorized users, such as the comment poster or admins,
               to permanently remove comments from a thread. Admins have the ability to delete any comment for moderation,
