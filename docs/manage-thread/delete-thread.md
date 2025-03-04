@@ -34,10 +34,11 @@
             <ul>
                 <li><a href="../manage-notification/receive-notification.md">Receive notification dialog</a></li>
             </ul>
-            <a href="../manage-thread/delete-thread.md">Multimedia Content Sharing</a>
+            <a href="delete-thread.md">Multimedia Content Sharing</a>
             <ul>
                 <li><a href="delete-thread.md">Delete thread dialog</a></li>
                 <li><a href="edit-thread.md">Edit thread dialog</a></li>
+                <li><a href="manage-thread.md">Manage thread</a></li>
                 <li><a href="view-thread.md">View thread dialog</a></li>
             </ul>
             <a href="">Search Functionality</a>
