@@ -56,7 +56,7 @@
             <br><br>
             <img src="" alt="Delete Forum" width="200">
             <h2>Delete Forum</h2>
-            <p>The "Delete Forum" functionality allows the administrator to remove forums and all their related content. This action is irreversible and ensures that forums no longer appear in the plafform.</p>
+            <p>The "Delete Forum" functionality allows the administrator to remove forums and all their related content. This action is irreversible and ensures that forums no longer appear in the platform.</p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
