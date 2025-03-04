@@ -30,9 +30,9 @@
                 <li><a href="../manage-forum/edit-forum.md">Edit forum dialog</a></li>
                 <li><a href="../manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
             </ul>
-            <a href="../manage-notification/receive-notification.md">Notification</a>
+            <a href="receive-notification.md">Notification</a>
             <ul>
-                <li><a href="../manage-notification/receive-notification.md">Receive notification dialog</a></li>
+                <li><a href="receive-notification.md">Receive notification dialog</a></li>
             </ul>
             <a href="../manage-thread/delete-thread.md">Multimedia Content Sharing</a>
             <ul>
