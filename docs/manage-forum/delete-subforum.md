@@ -34,7 +34,6 @@
             <a href="">Notification</a>
             <ul>
                 <li><a href="docs/manage-notification/receive-notification.md">Receive notification dialog</a></li>
-                <li><a href="docs/manage-notification/delete-notification.md">Delete notification dialog</a></li>
             </ul>
             <a href="">Multimedia Content Sharing</a>
             <ul>
@@ -47,16 +46,14 @@
             <br><br>
             <a href="">Real-Time Messaging</a>
             <ul>
-                <li><a href="docs/manage-message/edit-message.md">Edit message dialog</a></li>
                 <li><a href="docs/manage-message/send-message.md">Send message</a></li>
-                <li><a href="docs/manage-message/delete-message.md">Delete message dialog</a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Manage Forum</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Delete Subforum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Subforum" width="200">
+            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Delete Subforum" width="200">
             <h2>Delete  Subforum</h2>
             <p>
               The "Delete Subforum" functionality allows administrators to permanently remove subforums along with their associated threads and content. 
@@ -66,7 +63,7 @@
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Create Forum
+                      Admin Create Subforum
                     </td>
                 </tr>
                 <tr>
@@ -75,7 +72,7 @@
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>Add a new subforum under an existing forum.</td>
+                <td>Delete a subforum from the platform.</td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
@@ -100,7 +97,7 @@
                 <tr>
                     <th>Outcome: </th>
                     <td>
-                      A new subforum is created and visible under the appropriate forum. The administrator <br>can manage the subforum's content and settings.
+                       The selected subforum is deleted from the platform, and all associated content is removed.
                     </td>
                 </tr>
             </table>   
