@@ -52,7 +52,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Recieve Notification</a>
             <br><br>
-            <img src="" alt="Recieve Notification" width="200">
+            <img src="../../assets/recieve_notification1.png" alt="Recieve Notification" width="700">
+            <img src="../../assets/recieve_notification_clicked.png" alt="Recieve Notification" width="700">
             <h2>Recieve Notification</h2>
             <p>The "Receive Notifications" feature ensures that users stay informed about important activities or updates within the<br> platform. This includes notifications for new replies to threads, new messages, updates to forums or subforums, and <br> other user                     activities relevant to the user's interests or interactions.
             </p>
@@ -60,7 +61,7 @@
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      Admin Create Subforum
+                      User Receive Notification
                     </td>
                 </tr>
                 <tr>
