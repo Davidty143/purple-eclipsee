@@ -52,7 +52,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Post Comment</a>
             <br><br>
-            <img src="" alt="Post Comment" width="200">
+            <img src="../../assets/add_comment1.png" alt="Post Comment">
+            <img src="../../assets/add_comment2.png" alt="Post Comment">
             <h2>Post Comment</h2>
             <p>The "Post Comment" feature allows users to post comments on threads or posts. Users can enter and submit their comments, 
               which are then displayed below the thread and is visible to other users.</p>
