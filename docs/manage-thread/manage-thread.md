@@ -54,7 +54,10 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Add Thread</a>
             <br><br>
-            <img src="" alt="Add Thread" width="200">
+            <img src="../../assets/add_thread1.png" alt="Add Thread" width="500">
+            <img src="../../assets/add_thread2.png" alt="Add Thread" width="500">
+            <img src="../../assets/add_thread3.png" alt="Add Thread" width="500">
+            <img src="../../assets/add_thread4.png" alt="Add Thread" width="500">
             <h2>Add Thread</h2>
             <p>The "Post Thread" feature enables users to contribute new content to forums and subforums, enhancing community engagement.
               It ensures only authenticated users can create threads and enforces the completion of necessary fields to ensure the quality and usability of the threads posted.
