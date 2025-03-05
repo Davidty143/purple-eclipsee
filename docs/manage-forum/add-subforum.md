@@ -52,7 +52,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Add Subforum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Add Subforum" width="200">
+            <img src="../../assets/add_subforum1.png" alt="Add Subforum">
+            <img src="../../assets/add_subforum2.png" alt="Add Subforum">
             <h2>Add Subforum</h2>
             <p>The "Add Subforum" functionality enables administrators to create new subforums within existing forums, 
               specifying details like name, description and its visibility settings.
