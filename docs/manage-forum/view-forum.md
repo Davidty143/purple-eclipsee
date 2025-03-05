@@ -36,7 +36,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/view-forum">View Forum</a>
             <br><br>
-            <img src="/assets/view_forum(user).png" alt="View Forum" width="1000">
+            <h3> Forum View </h3>
+            <img src="../../assets/view_forum(user).png" alt="View Forum" width="1000">
             <h2>View Forum</h2>
             <p>The "View Forum" feature allows users to access and explore forum content, including all available subforums in each categorized forum.</p>
             <h2>Use Case Scenario</h2>
