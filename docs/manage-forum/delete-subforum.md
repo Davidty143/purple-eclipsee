@@ -51,7 +51,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Delete Subforum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Delete Subforum" width="200">
+            <img src="../../assets/delete_subforum1.png" alt="Delete Subforum">
+            <img src="../../assets/delete_subforum2.png" alt="Delete Subforum">
             <h2>Delete  Subforum</h2>
             <p>
               The "Delete Subforum" functionality allows administrators to permanently remove subforums along with their associated threads and content. 
