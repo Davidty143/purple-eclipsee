@@ -7,7 +7,7 @@
         <td>
             <h3>Revisions</h3>
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
- <a href="../homepage/homepage.md">Homepage</a>
+            <a href="../homepage/homepage.md">Homepage</a>
             <br>
             <a href="../authenticate-user/account-signup.md">Authentication</a>
             <ul>
