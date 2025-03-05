@@ -9,7 +9,7 @@
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
             <a href="../homepage/homepage.md">Homepage</a>
             <br>
-            <a href="account-signup.md">Authentication</a>
+            <a href="../authenticate-user/account-signup.md">Authentication</a>
             <ul>
                 <li><a href="account-signup.md">Sign up</a></li>
                 <li><a href="account-login.md">Account Login</a></li>
