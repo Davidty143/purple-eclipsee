@@ -14,7 +14,6 @@
             <ul>
                 <li><a href="../authenticate-user/account-signup.md">Sign up</a></li>
                 <li><a href="../authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="../authenticate-user/error-dialog.md">Error Dialog</a></li>
             </ul>
             <a href="delete-comment.md">Forum Management</a>
             <ul>
