@@ -52,7 +52,9 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Send Message</a>
             <br><br>
-            <img src="" alt="Send Message" width="200">
+            <img src="../../assets/send_message1.png" alt="Send Message" width="700"><br>
+            <img src="../../assets/send_message2.png" alt="Send Message" width="700"><br>
+            <img src="../../assets/send_message3.png" alt="Send Message" width="700">
             <h2>Send Message</h2>
             <p>The "Send Message" feature allows users to send direct messages in the form of threads, enabling users to communicate <br>with others in an organized manner. A user can send multiple messages in a thread, or continue an existing conversation with a recipient.
             </p>
