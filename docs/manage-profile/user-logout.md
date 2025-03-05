@@ -13,7 +13,6 @@
             <ul>
                 <li><a href="docs/authenticate-user/account-signup.md">Sign up</a></li>
                 <li><a href="docs/authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="docs/authenticate-user/error-dialog.md">Error Dialog</a></li>
             </ul>
             <a href="">Forum Management</a>
             <ul>
