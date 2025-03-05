@@ -62,7 +62,7 @@
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Create Forum
+                      User Send Messages
                     </td>
                 </tr>
                 <tr>
