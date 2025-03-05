@@ -14,7 +14,6 @@
             <ul>
                 <li><a href="docs/authenticate-user/account-signup.md">Sign up</a></li>
                 <li><a href="docs/authenticate-user/account-login.md">Account Login</a></li>
-                <li><a href="docs/authenticate-user/error-dialog.md">Error Dialog</a></li>
             </ul>
             <a href="">Forum Management</a>
             <ul>
@@ -54,9 +53,9 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Manage User</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Unban User</a>
             <br><br>
-            <img src="/assets/view_thread(user).png" alt="Manage Thread">
+            <img src="/assets/view_thread(user).png" alt="Unban User">
             <h2>Unban User</h2>
             <p>The "View Thread" feature allows users to view a thread's content, including the title, content, and comments, with access controlled by user permissions.
               Logged-in users can interact with the thread, while guests can only read it.
