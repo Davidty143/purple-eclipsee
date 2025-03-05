@@ -53,7 +53,8 @@
            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Edit Comment</a>
             <br><br>
-            <img src="" alt="Edit Comment" width="200">
+            <img src="../../assets/edit_comment1.png" alt="Edit Comment">
+            <img src="../../assets/edit_comment2.png" alt="Edit Comment">
             <h2>Edit Comment</h2>
             <p>The "Edit Comment" feature allows users to modify their own comments inside a thread. Edits are logged, 
               and a timestamp is displayed to indicate changes. Only the comment poster can edit the comment.</p>
