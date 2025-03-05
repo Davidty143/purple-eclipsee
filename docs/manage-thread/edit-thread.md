@@ -53,7 +53,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Edit Thread</a>
             <br><br>
-            <img src="" alt="Edit Thread" width="200">
+            <img src="../../assets/edit_thread1.png" alt="Edit Thread">
+            <img src="../../assets/edit_thread2.png" alt="Edit Thread">
             <h2>Edit Thread</h2>
             <p>The "Edit Thread" feature allows thread starters (poster) and admins to modify thread content.
               Admins have additional control, such as locking the thread or changing its status. Only authorized users can edit, and changes are immediately reflected in the forum.                     Required fields must be completed, and an audit trail tracks edits.
