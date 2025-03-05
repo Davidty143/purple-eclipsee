@@ -13,7 +13,6 @@
             <ul>
                 <li><a href="account-signup.md">Sign up</a></li>
                 <li><a href="account-login.md">Account Login</a></li>
-                <li><a href="error-dialog.md">Error Dialog</a></li>
             </ul>
             <a href="../manage-comment/delete-comment.md">Forum Management</a>
             <ul>
