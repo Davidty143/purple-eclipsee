@@ -52,7 +52,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Receive Message</a>
             <br><br>
-            <img src="" alt="Receive Message" width="200">
+            <img src="../../assets/receive_message1.png" alt="Receive Message" width="700"><br>
+            <img src="../../assets/receive_message2.png" alt="Receive Message" width="700">
             <h2>Receive Message</h2>
             <p>The "Receive Message" functionality allows users to view incoming messages from other users. This feature ensures users are notified about new messages, and can read, reply, or manage their message threads within the messaging platform.
             </p>
@@ -60,7 +61,7 @@
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      Admin Create Subforum
+                      User Receive Message
                     </td>
                 </tr>
                 <tr>
