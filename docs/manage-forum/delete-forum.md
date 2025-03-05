@@ -56,7 +56,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Delete Forum</a>
             <br><br>
-            <img src="" alt="Delete Forum" width="200">
+            <img src="../../assets/delete_forum1.png" alt="Delete Forum" width="900"><br>
+            <img src="../../assets/delete_forum2.png" alt="Delete Forum"  width="900">
             <h2>Delete Forum</h2>
             <p>The "Delete Forum" functionality allows the administrator to remove forums and all their related content. This action is irreversible and ensures that forums no longer appear in the platform.</p>
             <h2>Use Case Scenario</h2>
