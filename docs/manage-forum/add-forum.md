@@ -51,7 +51,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Add Forum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Add Forum" width="200">
+            <img src="../../assets/add_forum1.png" alt="Add Forum">
+            <img src="../../assets/add_forum2.png" alt="Add Forum">
             <h2>Add Forum</h2>
             <p>The "Create Forum" functionality allows administrators to set up new forums with varying visibility settings within the platform. 
                The forum will serve as a category for the subforums. </p>
