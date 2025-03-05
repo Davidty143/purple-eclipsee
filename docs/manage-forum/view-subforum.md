@@ -36,7 +36,7 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum/view-subforum.md">View Subforum</a>
             <br><br>
-            <img src="/assets/view_subforum(user).png" alt="View Subforum" width="1000">
+            <img src="../../assets/view_subforum(user).png" alt="View Subforum" width="1000">
             <h2>View Subforum</h2>
             <p>The "View Subforum" functionality enables users to access threads in a subforum, with pagination and filtering options for efficient browsing of the threads.</p>
             <h2>Use Case Scenario</h2>
