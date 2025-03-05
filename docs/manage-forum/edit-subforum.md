@@ -53,7 +53,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Edit  Subforum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Edit Subforum" width="200">
+            <img src="../../assets/edit_subforum1.png" alt="Edit Subforum">
+            <img src="../../assets/edit_subforum2.png" alt="Edit Subforum">
             <h2>Edit Subforum</h2>
             <p>
               The "Edit Subforum" functionality allows the administrator to update subforum details, including the name, description, 
