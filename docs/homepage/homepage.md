@@ -65,7 +65,7 @@
                 </tr>
                 <tr>
                     <th>Actor(s)</th>
-                    <td>Actor(s) Admin, Registered User, Guest</td>
+                    <td>Admin, Registered User, Guest</td>
                 </tr>
                 <tr>
                     <th>Goal</th>
