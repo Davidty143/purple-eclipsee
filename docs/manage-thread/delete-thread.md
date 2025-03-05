@@ -50,9 +50,10 @@
         </td>
         <td valign="top" style="width: 30%;">
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Manage Thread</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Delete Thread</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Manage Thread" width="200">
+            <img src="../../assets/delete_thread1.png" alt="Manage Thread" width="700">
+            <img src="../../assets/delete_thread2.png" alt="Manage Thread" width="700">
             <h2>Delete Thread</h2>
             <p>The "Delete Thread" feature allows users to permanently remove threads they have created. Admins can delete any thread, 
                 with additional capabilities such as restoring or archiving deleted content. Only authorized users can delete threads, 
