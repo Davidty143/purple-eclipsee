@@ -53,7 +53,8 @@
             <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-forum">Edit Forum</a>
             <br><br>
-            <img src="https://github.com/user-attachments/assets/d557f3f8-536c-4ed7-8990-4fff6e8f81c6" alt="Edit Forum" width="200">
+            <img src="../../assets/edit_forum1.png" alt="Edit Forum">
+             <img src="../../assets/edit_forum2.png" alt="Edit Forum">
             <h2>Edit Forum</h2>
             <p>The "Edit Forum" functionality enables administrators to modify existing forums. Any changes are immediately reflected on the platform. </p>
             <h2>Use Case Scenario</h2>
