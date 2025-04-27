@@ -53,7 +53,11 @@
                     </ul>
                     </ul>
                     <p> Search Feature </p> 
-                    <a href="">Search Functionality</a>
+                    <a href="docs/search-functionality">Search Functionality</a>
+                    <ul style="list-style-type: none ; padding-left: 0">
+                        <li style="padding-left: 15px"> <a href="docs/search-functionality/search-thread.md"> Search Thread </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/search-functionality/search-user.md"> Search User </a></li>
+                    </ul>
                     <ul style="list-style-type: none ; padding-left: 0"> 
                     </ul>
                     <h4> In-App Message </h4>
