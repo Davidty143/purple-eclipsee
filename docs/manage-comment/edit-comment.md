@@ -36,9 +36,9 @@
             <p> Forum and subforum browsing and joining, Multimedia Content Sharing</p>
             <a href="/manage-comment">Manage Comment</a>
             <ul>
-                <li><a href="/delete-comment.md">Delete comment</a></li>
-                <li><a href="/edit-comment.md">Edit comment</a></li>
-                <li><a href="/post-comment.md">Post comment</a></li>
+                <li><a href="delete-comment.md">Delete comment</a></li>
+                <li><a href="edit-comment.md">Edit comment</a></li>
+                <li><a href="post-comment.md">Post comment</a></li>
             </ul>
             <p> Notification System </p>
             <a href="../manage-notification">Notification</a>
