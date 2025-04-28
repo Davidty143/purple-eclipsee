@@ -17,7 +17,7 @@
                 <li><a href="account-login.md">Account Login</a></li>
             </ul>
              <p> Forum Management </p>
-            <a href="/manage-forum">Manage Forum</a>
+            <a href="../manage-forum">Manage Forum</a>
             <ul>
                 <li><a href="../manage-forum/add-forum.md">Add forum dialog</a></li>
                 <li><a href="../manage-forum/add-subforum.md">Add subforum dialog</a></li>
