@@ -11,7 +11,6 @@
                     <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs/homepage/homepage.md"> Home Page </a></li>  
                     </ul>
-                    <br>
                     <a href="docs/authenticate-user/">Authentication </a>
                      <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs\authenticate-user\account-login.md"> Login Account </a></li>   
