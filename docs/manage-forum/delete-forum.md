@@ -25,8 +25,8 @@
                 <li><a href="delete-subforum.md">Delete subforum</a></li>
                 <li><a href="edit-forum.md">Edit forum</a></li>
                 <li><a href="edit-subforum.md">Edit subforum</a></li>
-                <li><a href="edit-subforum.md">View forum</a></li>
-                <li><a href="edit-subforum.md">View subforum</a></li>
+                <li><a href="view-forum.md">View forum</a></li>
+                <li><a href="view-subforum.md">View subforum</a></li>
             </ul>
             <a href="../manage-thread">Manage Thread</a>
             <ul>
