@@ -17,28 +17,28 @@
                 <li><a href="account-login.md">Account Login</a></li>
             </ul>
              <p> Forum Management </p>
-            <a href="/manage-forum">Manage Forum</a>
+            <a href="../manage-forum">Manage Forum</a>
             <ul>
-                <li><a href="../manage-forum/add-forum.md">Add forum dialog</a></li>
-                <li><a href="../manage-forum/add-subforum.md">Add subforum dialog</a></li>
-                <li><a href="../manage-forum/delete-forum.md">Delete forum dialog</a></li>
-                <li><a href="../manage-forum/delete-subforum.md">Delete subforum dialog</a></li>
-                <li><a href="../manage-forum/edit-forum.md">Edit forum dialog</a></li>
-                <li><a href="../manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
+                <li><a href="../manage-forum/add-forum.md">Add forum</a></li>
+                <li><a href="../manage-forum/add-subforum.md">Add subforum</a></li>
+                <li><a href="../manage-forum/delete-forum.md">Delete forum</a></li>
+                <li><a href="../manage-forum/delete-subforum.md">Delete subforum</a></li>
+                <li><a href="../manage-forum/edit-forum.md">Edit forum</a></li>
+                <li><a href="../manage-forum/edit-subforum.md">Edit subforum</a></li>
             </ul>
             <a href="../manage-thread">Manage Thread</a>
             <ul>
-                <li><a href="../manage-thread/delete-thread.md">Delete thread dialog</a></li>
-                <li><a href="../manage-thread/edit-thread.md">Edit thread dialog</a></li>
-                <li><a href="../manage-thread/manage-thread.md">Manage thread dialog</a></li>
-                <li><a href="../manage-thread/view-thread.md">View thread dialog</a></li>
+                <li><a href="../manage-thread/delete-thread.md">Delete thread</a></li>
+                <li><a href="../manage-thread/edit-thread.md">Edit thread</a></li>
+                <li><a href="../manage-thread/manage-thread.md">Manage thread</a></li>
+                <li><a href="../manage-thread/view-thread.md">View thread</a></li>
             </ul>
             <p> Forum and subforum browsing and joining, Multimedia Content Sharing</p>
             <a href="../manage-comment">Manage Comment</a>
             <ul>
-                <li><a href="../manage-comment/delete-comment.md">Delete comment dialog</a></li>
-                <li><a href="../manage-comment/edit-comment.md">Edit comment dialog</a></li>
-                <li><a href="../manage-comment/post-comment.md">Post comment dialog</a></li>
+                <li><a href="../manage-comment/delete-comment.md">Delete comment</a></li>
+                <li><a href="../manage-comment/edit-comment.md">Edit comment</a></li>
+                <li><a href="../manage-comment/post-comment.md">Post comment</a></li>
             </ul>
             <p> Notification System </p>
             <a href="../manage-notification">Notification</a>
