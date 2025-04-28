@@ -19,12 +19,14 @@
              <p> Forum Management </p>
             <a href="/manage-forum">Manage Forum</a>
             <ul>
-                <li><a href="/add-forum.md">Add forum</a></li>
-                <li><a href="/add-subforum.md">Add subforum</a></li>
-                <li><a href="/delete-forum.md">Delete forum</a></li>
-                <li><a href="/delete-subforum.md">Delete subforum</a></li>
-                <li><a href="/edit-forum.md">Edit forum</a></li>
-                <li><a href="/edit-subforum.md">Edit subforum</a></li>
+                <li><a href=add-forum.md">Add forum</a></li>
+                <li><a href="add-subforum.md">Add subforum</a></li>
+                <li><a href="delete-forum.md">Delete forum</a></li>
+                <li><a href="delete-subforum.md">Delete subforum</a></li>
+                <li><a href="edit-forum.md">Edit forum</a></li>
+                <li><a href="edit-subforum.md">Edit subforum</a></li>
+                <li><a href="edit-subforum.md">View forum</a></li>
+                <li><a href="edit-subforum.md">View subforum</a></li>
             </ul>
             <a href="../manage-thread">Manage Thread</a>
             <ul>
