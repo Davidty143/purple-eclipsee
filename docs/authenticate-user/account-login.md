@@ -6,20 +6,18 @@
         <td valign="top">
             <h3 style="margin-top:0">Revisions</h3>
             <h4 style="list-style-type: none; padding-left: 0;">Site Map</h4>
-            <a href="../homepage/homepage.md">Homepage</a>
-            <br>
-            <a href="account-signup.md">Authentication</a>
+            <p> Main page, Authentication, and Account Creation </p>
+            <a href="/homepage">Main Page</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="docs/homepage/homepage.md"> Home Page </a></li>  
+            </ul>
+            <a href="/authenticate-user">Authentication</a>
             <ul>
                 <li><a href="account-signup.md">Sign up</a></li>
                 <li><a href="account-login.md">Account Login</a></li>
             </ul>
-            <a href="../manage-comment/delete-comment.md">Forum Management</a>
-            <ul>
-                <li><a href="../manage-comment/delete-comment.md">Delete comment dialog</a></li>
-                <li><a href="../manage-comment/edit-comment.md">Edit comment dialog</a></li>
-                <li><a href="../manage-comment/post-comment.md">Post comment dialog</a></li>
-            </ul>
-            <a href="../manage-forum/add-forum.md">Discussion Creation/Participation</a>
+             <p> Forum Management </p>
+            <a href="../manage-comment/delete-comment.md">Manage Forum</a>
             <ul>
                 <li><a href="../manage-forum/add-forum.md">Add forum dialog</a></li>
                 <li><a href="../manage-forum/add-subforum.md">Add subforum dialog</a></li>
@@ -28,23 +26,37 @@
                 <li><a href="../manage-forum/edit-forum.md">Edit forum dialog</a></li>
                 <li><a href="../manage-forum/edit-subforum.md">Edit subforum dialog</a></li>
             </ul>
-            <a href="../manage-notification/receive-notification.md">Notification</a>
-            <ul>
-                <li><a href="../manage-notification/receive-notification.md">Receive notification dialog</a></li>
-            </ul>
-            <a href="../manage-thread/delete-thread.md">Multimedia Content Sharing</a>
+            <a href="../manage-thread/delete-thread.md">Manage Thread</a>
             <ul>
                 <li><a href="../manage-thread/delete-thread.md">Delete thread dialog</a></li>
                 <li><a href="../manage-thread/edit-thread.md">Edit thread dialog</a></li>
                 <li><a href="../manage-thread/manage-thread.md">Manage thread dialog</a></li>
                 <li><a href="../manage-thread/view-thread.md">View thread dialog</a></li>
             </ul>
-            <a href="">Search Functionality</a>
-            <br><br>
-            <a href="../manage-message/receive-message.md">Real-Time Messaging</a>
+            <p> Forum and subforum browsing and joining, Multimedia Content Sharing</p>
+            <a href="../manage-forum/add-forum.md">Manage Comment</a>
             <ul>
-                <li><a href="../manage-message/receive-message.md">Receive message</a></li>
-                <li><a href="docs/manage-message/send-message.md">Send message</a></li>
+                <li><a href="../manage-comment/delete-comment.md">Delete comment dialog</a></li>
+                <li><a href="../manage-comment/edit-comment.md">Edit comment dialog</a></li>
+                <li><a href="../manage-comment/post-comment.md">Post comment dialog</a></li>
+            </ul>
+            <p> Notification System </p>
+            <a href="../manage-notification/receive-notification.md">Notification</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="../manage-notification/recieve-notification.md">Recieve notification </a></li>
+                <li style="padding-left: 15px"> <a href="../manage-notification/delete-notification.md"> Delete comment </a></li>    
+            </ul>
+            <p> Search Feature </p> 
+            <a href="/search-functionality">Search Functionality</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="../search-functionality/search-thread.md"> Search Thread </a></li>
+                <li style="padding-left: 15px"> <a href="../search-functionality/search-user.md"> Search User </a></li>
+            </ul>
+            <h4> In-App Message </h4>
+            <a href="docs\manage-message\send-message.md">Real-Time Messaging</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="../manage-message/send-message.md"> Send message </a></li>
+                <li style="padding-left: 15px"> <a href="../manage-message/receive-message.md"> Receive message </a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
