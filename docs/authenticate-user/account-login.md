@@ -9,7 +9,7 @@
             <p> Main page, Authentication, and Account Creation </p>
             <a href="/homepage">Main Page</a>
             <ul style="list-style-type: none ; padding-left: 0">
-                <li style="padding-left: 15px"> <a href="docs/homepage/homepage.md"> Home Page </a></li>  
+                <li style="padding-left: 15px"> <a href="../homepage/homepage.md"> Home Page </a></li>  
             </ul>
             <a href="/authenticate-user">Authentication</a>
             <ul>
