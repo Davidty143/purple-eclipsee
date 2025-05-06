@@ -44,7 +44,7 @@
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\edit-comment.md"> Edit comment </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\delete-comment.md"> Delete comment </a></li>
                     </ul>
-                    <p> Notification functionality </p>
+                    <p> Notification Feature </p>
                     <a href="docs/manage-notification">Notification</a>
                     <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs\manage-notification\recieve-notification.md">Recieve notification </a></li>
