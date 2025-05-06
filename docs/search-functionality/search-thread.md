@@ -44,7 +44,7 @@
             <a href="../manage-notification">Notification</a>
             <ul style="list-style-type: none ; padding-left: 0">
                 <li style="padding-left: 15px"> <a href="../manage-notification/recieve-notification.md">Recieve notification </a></li>
-                <li style="padding-left: 15px"> <a href="../manage-notification/delete-notification.md"> Delete comment </a></li>    
+                <li style="padding-left: 15px"> <a href="../manage-notification/delete-notification.md"> Delete notification </a></li>    
             </ul>
             <p> Search Feature </p> 
             <a href="../search-functionality">Search Functionality</a>
