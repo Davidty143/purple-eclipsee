@@ -13,8 +13,8 @@
             </ul>
             <a href="/authenticate-user">Authentication</a>
             <ul>
-                <li><a href="account-signup.md">Sign up</a></li>
-                <li><a href="account-login.md">Account Login</a></li>
+                <li><a href="../authenticate-user/account-signup.md">Sign up</a></li>
+                <li><a href="../authenticate-user/account-login.md">Account Login</a></li>
             </ul>
              <p> Forum Management </p>
             <a href="../manage-forum">Manage Forum</a>
@@ -40,7 +40,7 @@
                 <li><a href="../manage-comment/edit-comment.md">Edit comment</a></li>
                 <li><a href="../manage-comment/post-comment.md">Post comment</a></li>
             </ul>
-            <p> Notification System </p>
+            <p> Notification Feature </p>
             <a href="../manage-notification">Notification</a>
             <ul style="list-style-type: none ; padding-left: 0">
                 <li style="padding-left: 15px"> <a href="../manage-notification/recieve-notification.md">Recieve notification </a></li>
@@ -49,8 +49,8 @@
             <p> Search Feature </p> 
             <a href="../search-functionality">Search Functionality</a>
             <ul style="list-style-type: none ; padding-left: 0">
-                <li style="padding-left: 15px"> <a href="../search-functionality/search-thread.md"> Search Thread </a></li>
-                <li style="padding-left: 15px"> <a href="../search-functionality/search-user.md"> Search User </a></li>
+                <li style="padding-left: 15px"> <a href="search-thread.md"> Search Thread </a></li>
+                <li style="padding-left: 15px"> <a href="search-user.md"> Search User </a></li>
             </ul>
             <h4> In-App Message </h4>
             <a href="../manage-message">Real-Time Messaging</a>
@@ -64,7 +64,9 @@
             <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/authenticate-user">Search thread</a>
             <br><br>
              <img src="/assets/account_login.png" alt="Authenticate User">
+            <h2> Search Threads </h2>
             <p>The “Search Threads” feature enables users to easily find threads available on the platform. It includes search filters to help refine results and enhance user convenience.</p>
+            <h2>Use Case Scenario</h2>
               <table border="1">
                 <tr>
                     <td colspan="2" align="left">
