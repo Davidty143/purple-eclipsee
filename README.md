@@ -44,11 +44,11 @@
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\edit-comment.md"> Edit comment </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-comment\delete-comment.md"> Delete comment </a></li>
                     </ul>
-                    <p> Notification System </p>
-                    <a href="docs\manage-notification\recieve-notification.md">Notification</a>
+                    <p> Notification functionality </p>
+                    <a href="docs/manage-notification">Notification</a>
                     <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs\manage-notification\recieve-notification.md">Recieve notification </a></li>
-                        <li style="padding-left: 15px"> <a href="docs\manage-notification\delete-notification.md"> Delete comment </a></li>    
+                        <li style="padding-left: 15px"> <a href="docs\manage-notification\delete-notification.md"> Delete notification </a></li>    
                     </ul>
                     </ul>
                     <p> Search Feature </p> 
@@ -60,7 +60,7 @@
                     <ul style="list-style-type: none ; padding-left: 0"> 
                     </ul>
                     <h4> In-App Message </h4>
-                     <a href="docs\manage-message\send-message.md">Real-Time Messaging</a>
+                     <a href="docs/manage-message">Real-Time Messaging</a>
                     <ul style="list-style-type: none ; padding-left: 0">
                         <li style="padding-left: 15px"> <a href="docs\manage-message\send-message.md"> Send message </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-message\receive-message.md"> Receive message </a></li>
