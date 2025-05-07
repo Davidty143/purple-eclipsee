@@ -47,7 +47,7 @@
                     <p> Notification Feature </p>
                     <a href="docs/manage-notification">Notification</a>
                     <ul style="list-style-type: none ; padding-left: 0">
-                        <li style="padding-left: 15px"> <a href="docs\manage-notification\recieve-notification.md">Recieve notification </a></li>
+                        <li style="padding-left: 15px"> <a href="docs\manage-notification\receive-notification.md">Recieve notification </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-notification\delete-notification.md"> Delete notification </a></li>    
                     </ul>
                     </ul>
@@ -88,6 +88,13 @@
                             <td> 2025-04-27</td>
                             <td> v1.0.1</td>
                             <td> Updated structure, set target version, and finish markdown contents and link</td>
+                            <td> ...</td>
+                            <td>  Ty, David Antonio <br> Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td> 2025-05-8</td>
+                            <td> v1.0.2</td>
+                            <td> Finalizing markdown contents and link</td>
                             <td> ...</td>
                             <td>  Ty, David Antonio <br> Project Manager</td>
                         </tr>
