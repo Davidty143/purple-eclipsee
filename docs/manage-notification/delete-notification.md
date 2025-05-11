@@ -1,5 +1,5 @@
 <h2>Purple-eclipse</h2>
-<p><strong>Target:</strong> `PE.010.006`</p>
+<p><strong>Target:</strong> `PE.020.001`</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 12px;">
     <tr style="width: 70%;">
@@ -51,6 +51,12 @@
             <ul style="list-style-type: none ; padding-left: 0">
                 <li style="padding-left: 15px"> <a href="search-thread.md"> Search Thread </a></li>
                 <li style="padding-left: 15px"> <a href="search-user.md"> Search User </a></li>
+            </ul>
+            <p> Manage Profile</p>
+            <a href="../manage-profile">Profile</a>
+            <ul>
+                <li><a href="../manage-profile/edit-profile.md">Edit Profile</a></li>
+                <li><a href="../manage-profile/view-profile.md">View Profile</a></li>
             </ul>
             <p> Manage Profile</p>
             <a href="../manage-profile">Profile</a>
