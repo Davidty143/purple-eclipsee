@@ -52,6 +52,12 @@
                 <li style="padding-left: 15px"> <a href="search-thread.md"> Search Thread </a></li>
                 <li style="padding-left: 15px"> <a href="search-user.md"> Search User </a></li>
             </ul>
+            <p> Manage Profile</p>
+            <a href="../manage-profile">Profile</a>
+            <ul>
+                <li><a href="../manage-profile/edit-profile.md">Edit Profile</a></li>
+                <li><a href="../manage-profile/view-profile.md">View Profile</a></li>
+            </ul>
             <h4> In-App Message </h4>
             <a href="../manage-message">Real-Time Messaging</a>
             <ul style="list-style-type: none ; padding-left: 0">
