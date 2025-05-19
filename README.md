@@ -65,6 +65,12 @@
                         <li style="padding-left: 15px"> <a href="docs\manage-message\send-message.md"> Send message </a></li>
                         <li style="padding-left: 15px"> <a href="docs\manage-message\receive-message.md"> Receive message </a></li>
                     </ul>
+                    <p> Manage User </p>
+                    <a href="../manage-user">Manage User</a>
+                    <ul style="list-style-type: none ; padding-left: 0">
+                        <li style="padding-left: 15px"> <a href="../manage-user/ban-user.md"> Ban User </a></li>
+                        <li style="padding-left: 15px"> <a href="../manage-user/restrict-user.md"> Restrict User </a></li>
+                    </ul>
                 </ul> 
             </td>
           <td valign="top">
@@ -106,11 +112,11 @@
                             <td>  Ty, David Antonio <br> Project Manager</td>
                         </tr>
                         <tr>
+                            <td> 2025-05-20</td>
+                            <td> v1.0.4</td>
+                            <td> Deleting files and updating manage user markdown</td>
                             <td> ...</td>
-                            <td> ...</td>
-                            <td> ...</td>
-                            <td> ...</td>
-                            <td> ...</td>
+                            <td>  Ty, David Antonio <br> Project Manager</td>
                         </tr>
                     </table>
                 </div>

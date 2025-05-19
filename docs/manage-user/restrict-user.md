@@ -1,5 +1,5 @@
 <h2>Purple-eclipse</h2>
-<p><strong>Target:</strong> `PE.020.001`</p>
+<p><strong>Target:</strong> `PE.020.002`</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 12px;">
     <tr style="width: 70%;">
@@ -26,19 +26,19 @@
                 <li><a href="../manage-forum/edit-forum.md">Edit forum</a></li>
                 <li><a href="../manage-forum/edit-subforum.md">Edit subforum</a></li>
             </ul>
-            <a href="../manage-thread">Manage Thread</a>
+            <a href="/manage-thread">Manage Thread</a>
             <ul>
-                <li><a href="../manage-thread/delete-thread.md">Delete thread</a></li>
-                <li><a href="../manage-thread/edit-thread.md">Edit thread</a></li>
-                <li><a href="../manage-thread/manage-thread.md">Manage thread</a></li>
-                <li><a href="../manage-thread/view-thread.md">View thread</a></li>
+                <li><a href="delete-thread.md">Delete thread</a></li>
+                <li><a href="edit-thread.md">Edit thread</a></li>
+                <li><a href="manage-thread.md">Manage thread</a></li>
+                <li><a href="view-thread.md">View thread</a></li>
             </ul>
             <p> Forum and subforum browsing and joining, Multimedia Content Sharing</p>
-            <a href="/manage-comment">Manage Comment</a>
+            <a href="../manage-comment">Manage Comment</a>
             <ul>
-                <li><a href="delete-comment.md">Delete comment</a></li>
-                <li><a href="edit-comment.md">Edit comment</a></li>
-                <li><a href="post-comment.md">Post comment</a></li>
+                <li><a href="../manage-comment/delete-comment.md">Delete comment</a></li>
+                <li><a href="../manage-comment/edit-comment.md">Edit comment</a></li>
+                <li><a href="../manage-comment/post-comment.md">Post comment</a></li>
             </ul>
             <p> Notification System </p>
             <a href="../manage-notification">Notification</a>
@@ -58,27 +58,32 @@
                 <li><a href="../manage-profile/edit-profile.md">Edit Profile</a></li>
                 <li><a href="../manage-profile/view-profile.md">View Profile</a></li>
             </ul>
-            <h4> In-App Message </h4>
+            <p> In-App Message </p>
             <a href="../manage-message">Real-Time Messaging</a>
             <ul style="list-style-type: none ; padding-left: 0">
                 <li style="padding-left: 15px"> <a href="../manage-message/send-message.md"> Send message </a></li>
                 <li style="padding-left: 15px"> <a href="../manage-message/receive-message.md"> Receive message </a></li>
             </ul>
+            <p> Manage User </p>
+            <a href="/manage-user">Manage User</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="ban-user.md"> Ban User </a></li>
+                <li style="padding-left: 15px"> <a href="restrict-user.md"> Restrict User </a></li>
+            </ul>
         </td>
         <td valign="top" style="width: 30%;">
-           <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
-            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-comment">Edit Comment</a>
+            <a href="https://github.com/Davidty143/purple-eclipse/blob/main/docs/homepage/homepage.md">Homepage</a> &gt;
+            <a href="https://github.com/Davidty143/purple-eclipse/tree/main/docs/manage-thread">Ban User</a>
             <br><br>
-            <img src="../../assets/edit_comment1.png" alt="Edit Comment">
-            <img src="../../assets/edit_comment2.png" alt="Edit Comment">
-            <h2>Edit Comment</h2>
-            <p>The "Edit Comment" feature allows users to modify their own comments inside a thread. Edits are logged, 
-              and a timestamp is displayed to indicate changes. Only the comment poster can edit the comment.</p>
+            <img src="/assets/view_thread(user).png" alt="Ban User">
+            <h2>Ban User</h2>
+            <p>The "Restrict User" feature allows admin to retrict a certain user from commenting or posting a thread under a subforum.
+           </p>
             <h2>Use Case Scenario</h2>
             <table border="1">
                 <tr>
                     <td colspan="2" align="left">
-                      User Comment on Thread
+                     Admin Restricts User
                     </td>
                 </tr>
                 <tr>
@@ -87,31 +92,30 @@
                 </tr>
               <tr>
                 <th>Goal</th>
-                <td>Allow users to edit their own comments and admins to edit any comment for moderation.</td>
+                <td>To restrict a user from participating on a thread.
+              </td>
               </tr>  
                 <tr>
                     <th>Precondtions</th>
                     <td>
-                          The user must be logged in to their account.<br>
-                          The user must have previously posted the comment they wish to edit.
+                          1. The admin must be on the ban/restrict page.<br>
                     </td>
                 </tr>
                 <tr>
                     <th>Main Scenario</th>
                     <td>
-                        1. The user navigates to the thread or post where they want to comment.
+                        1. The admin searches for the name of the user.
                         <br>
-                        2. The user clicks the "Edit" option associated with their comment.
+                        2. The admin can have the choice to either ban or restrict the user.
                         <br>
-                        3. The comment's text becomes editable, and the user makes the desired changes.
-                          <br>
-                        4. The updated comment is saved and displayed with a timestamp reflecting the last edit.
+                        3. The admin clicks the restrict button.
                         <br>
                     </td>
                 </tr>
                 <tr>
                     <th>Outcome: </th>
-                    <td>The comment is edited based on the user's preference.</td>
+                    <td>The user can no longer interact or participate on a thread.
+                </td>
                 </tr>
             </table>   
           <tr>

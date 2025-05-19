@@ -1,5 +1,5 @@
 <h2>Purple-eclipse</h2>
-<p><strong>Target:</strong> `PE.020.001`</p>
+<p><strong>Target:</strong> `PE.020.002`</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="width: 80%; font-size: 12px;">
     <tr style="width: 70%;">
@@ -65,6 +65,12 @@
             <ul style="list-style-type: none ; padding-left: 0">
                 <li style="padding-left: 15px"> <a href="send-message.md"> Send message </a></li>
                 <li style="padding-left: 15px"> <a href="receive-message.md"> Receive message </a></li>
+            </ul>
+            <p> Manage User </p>
+            <a href="../manage-user">Manage User</a>
+            <ul style="list-style-type: none ; padding-left: 0">
+                <li style="padding-left: 15px"> <a href="../manage-user/ban-user.md"> Ban User </a></li>
+                <li style="padding-left: 15px"> <a href="../manage-user/restrict-user.md"> Restrict User </a></li>
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
