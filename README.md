@@ -1,7 +1,7 @@
 <div>
     <table>
         <h1> Purple Eclipse</h1>
-        <p style="font-weight: lighter;">Target: `PE.010.006`</p>
+        <p style="font-weight: lighter;">Target: `PE.020.002`</p>
             <td width="30%">
                 <h2> Revisions </h2>
                 <style="padding-left: 0"><strong style="font-weight: 900;">Site Map</strong>
