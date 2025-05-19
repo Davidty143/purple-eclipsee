@@ -68,8 +68,8 @@
                     <p> Manage User </p>
                     <a href="../manage-user">Manage User</a>
                     <ul style="list-style-type: none ; padding-left: 0">
-                        <li style="padding-left: 15px"> <a href="../manage-user/ban-user.md"> Ban User </a></li>
-                        <li style="padding-left: 15px"> <a href="../manage-user/restrict-user.md"> Restrict User </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/manage-user/ban-user.md"> Ban User </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/manage-user/restrict-user.md"> Restrict User </a></li>
                     </ul>
                 </ul> 
             </td>
